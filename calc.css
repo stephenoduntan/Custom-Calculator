@@ -6,12 +6,11 @@ body{
 }
 
 h3{	
-	letter-spacing: 1px;
 	text-align: center;
 	grid-column: span 4;
 	align-self: center;
 	margin: 0px;
-	font-size: 28px;
+	font-size: 26px;
 	font-weight: 700;
 	color: rgba(255, 255, 255, 0.911);
 	text-shadow: 0px 3px 3px #170101;

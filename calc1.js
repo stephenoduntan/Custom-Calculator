@@ -13,7 +13,7 @@ function screenDisplay(e){
 	input.innerText += e.target.innerText;
 }
 
-for (i=0; i<operators.length; i+=1){
+for (i=0; i<operators.length; i++){
 	operators[i].addEventListener('click', operation);
 }
 
